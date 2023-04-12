@@ -1,0 +1,1 @@
+enum Viewstate{LODDING,COMPLETED,ERROR}
